@@ -1,0 +1,4 @@
+- Photo: https://avatars1.githubusercontent.com/u/32955891?s=400&u=a5515fbee49c0a60ba3e7153076f4857fcbb99f7&v=4
+- Location: Delhi, INIDA
+- Bio: Final year student, Interested in Development.
+- Github: https://github.com/Ruchi101
